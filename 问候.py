@@ -40,6 +40,7 @@ with open(r'1.txt', encoding="utf-8") as file:
 
 
         i = i+1
-#可优化：1.修改英文输入法   2.自定义@的人   3.自定义表情
+file.close        
+        #可优化：1.修改英文输入法   2.自定义@的人   3.自定义表情
     
     
